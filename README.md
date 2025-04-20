@@ -8,25 +8,7 @@ Currently I`m in my final year at School of Computing, RAF. Pursuing Computer Sc
 
 ### 💻 Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://skillicons.dev/icons?i=react" height="48" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="48" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="48" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=html" height="48" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=css" height="48" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="48" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=angular" height="48" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="48" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="48" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="48" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=java" height="48" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=spring" height="48" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="48" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="48" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=docker" height="48" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="48" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-</div>
-
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,angular,nodejs,androidstudio,kotlin,java,spring,mysql,postgres,docker,kubernetes)](https://skillicons.dev)
 ### 🌐 Socials
 
 Connect with me on:
