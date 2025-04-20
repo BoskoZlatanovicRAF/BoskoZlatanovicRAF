@@ -31,12 +31,11 @@ Currently I`m in my final year at School of Computing, RAF. Pursuing Computer Sc
 
 Connect with me on:
 
-<a href="https://github.com/BoskoZlatanovicRAF" target="_blank">
-  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" alt="GitHub" width="40"/>
+<a href="https://github.com/BoskoZlatanovicRAF">
+  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" alt="GitHub" width="48"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/bosko-zlatanovic/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+<a href="https://www.linkedin.com/in/bosko-zlatanovic/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="48" />
 </a>
 
 
@@ -46,17 +45,3 @@ Connect with me on:
   <img src="https://github-readme-stats.vercel.app/api?username=BoskoZlatanovicRAF&theme=dark&show_icons=true&hide_border=false&count_private=true" width="460"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoskoZlatanovicRAF&theme=dark&show_icons=true&hide_border=false&layout=compact" width="350"/>
 </div>
-<!--
-**BoskoZlatanovicRAF/BoskoZlatanovicRAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
