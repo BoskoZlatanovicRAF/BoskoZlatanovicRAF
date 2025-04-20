@@ -39,6 +39,13 @@ Connect with me on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
 </a>
 
+
+### 📊 Github Stats
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=BoskoZlatanovicRAF&theme=dark&show_icons=true&hide_border=false&count_private=true" width="460"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoskoZlatanovicRAF&theme=dark&show_icons=true&hide_border=false&layout=compact" width="350"/>
+</div>
 <!--
 **BoskoZlatanovicRAF/BoskoZlatanovicRAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
