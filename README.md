@@ -1,14 +1,13 @@
 ## Hi there 👋, I`m Bosko.
 
-Currently I`m in my final year at School of Computing, RAF. Pursuing Computer Science degree with primary focus on Web Development. 
+Currently I`m in my final year at School of Computing, RAF. Pursuing Computer Science degree with primary focus on Backend and Mobile development. 
 
 * Based in Belgrade, Serbia
 * Email address: boskozlatanovic1@gmail.com
-* Currently working on [Bank & Trading Platform](https://github.com/RAF-SI-2024/Banka-2-Frontend) as part of uni course "Software Engineering".
 
 ### 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,angular,nodejs,androidstudio,kotlin,java,spring,mysql,postgres,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,kubernetes,react,ts,js,html,css,tailwind,angular,nodejs,androidstudio,kotlin,c#)](https://skillicons.dev)
 ### 🌐 Socials
 
 Connect with me on:
