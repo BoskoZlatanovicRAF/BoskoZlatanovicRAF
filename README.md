@@ -1,6 +1,6 @@
 ## Hi there 👋, I`m Bosko.
 
-Currently I`m in my final year at School of Computing, RAF. Pursuing Computer Science degree with primary focus on Backend and Mobile development. 
+Computer Science Graduate from School of Computing, RAF, with primary focus on Backend and Mobile development. 
 
 * Based in Belgrade, Serbia
 * Email address: boskozlatanovic1@gmail.com
